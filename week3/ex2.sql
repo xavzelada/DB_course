@@ -13,12 +13,16 @@ CREATE TABLE genres (
     id INT PRIMARY KEY,
     name VARCHAR
 );
-
+ 
+ 
+// TO check
 CREATE TABLE directors (
     name VARCHAR PRIMARY KEY,
     dob INT PRIMARY KEY
 );
 
+
+// TO check
 CREATE TABLE actors (
     name VARCHAR PRIMARY KEY,
     bod INT PRIMARY KEY
